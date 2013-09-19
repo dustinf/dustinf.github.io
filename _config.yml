@@ -2,7 +2,7 @@ title:            dustin fletcher
 description:      poems and thoughts by dustin fletcher
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://localhost:4000
+url:              drzl.me
 
 # Owner/author information
 owner:
