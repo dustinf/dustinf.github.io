@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">dustin fletcher</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2013-09-18T22:42:45-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>dustin fletcher</name>
+  <uri>http://localhost:4000/</uri>
+  <email>hello@drzl.me</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[a few poems]]></title>
+  <link>http://localhost:4000/selected-poems</link>
+  <id>http://localhost:4000/selected-poems</id>
+  <published>2013-09-18T00:00:00-04:00</published>
+  <updated>2013-09-18T00:00:00-04:00</updated>
+  <author>
+    <name>dustin fletcher</name>
+    <uri>http://localhost:4000</uri>
+    <email>hello@drzl.me</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;selected-poems&quot;&gt;selected poems&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;be genuine&lt;br /&gt;
+in everything you do&lt;br /&gt;
+be you  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;three things that are better in the rain:&lt;br /&gt;
+kissing&lt;br /&gt;
+dancing&lt;br /&gt;
+&amp;amp;reaching for the sky&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;people asking for miracles from god,&lt;br /&gt;
+unimpressed by the ever-present miracle&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;do grape farmers enjoy the fact they&amp;#8217;re raisin&amp;#8217; raisins?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/selected-poems&quot;&gt;a few poems&lt;/a&gt; was originally published by dustin fletcher at &lt;a href=&quot;http://localhost:4000&quot;&gt;dustin fletcher&lt;/a&gt; on September 18, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
